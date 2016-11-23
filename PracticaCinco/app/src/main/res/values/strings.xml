@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaCinco</string>
+    <string name="text_title">A title</string>
+    <string name="text_body">A body</string>
+    <string name="text_footnote">A footnote</string>
+    <string name="btn_notify_text">Add notification</string>
+    <string name="btn_notify_custom_text">Add custom notification</string>
+</resources>
