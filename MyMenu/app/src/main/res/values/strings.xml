@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <string name="menu_title">The title</string>
+    <string name="menu_category_a">Category A</string>
+    <string name="menu_item_a">Item A</string>
+    <string name="menu_item_a_one">Item A1</string>
+    <string name="menu_item_a_two">ItemA2</string>
+    <string name="menu_item_a_three">ItemA3</string>
+    <string name="menu_category_b">Category B</string>
+    <string name="menu_item_b_one">ItemB1</string>
+    <string name="menu_item_b_two">ItemB2</string>
+    <string name="menu_item_b_three">ItemB3</string>
+</resources>
